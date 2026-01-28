@@ -1,5 +1,10 @@
 [
   {
+    "slug": "android-audio",
+    "title": "Setting up a small tts model for Android",
+    "date": "2026-01-29",
+    "description": "Some notes"
+  },{
     "slug": "my-first-post",
     "title": "My First Blog Post",
     "date": "2024-12-21",
