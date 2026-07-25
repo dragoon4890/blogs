@@ -5,19 +5,14 @@ description: "Some notes"
 ---
 
 
-I was thinking of making this personal project for a long period of time. It has been maybe like 2 months 
-since i thought of it. Leaving that part aside, a TTS ( text to speech) model is crucial for the thought 
-project.
+I was thinking of making this personal project for a long of time. It has been maybe like 2 months 
+since i thought of it. Leaving that part aside, a TTS ( text to speech) model is crucial for this project
 
-So its right now 3 am when i start with that. 
+Rewriting this blog for the first time since 29th Jan.
 
-First thing, I do is, I start researching about small models, I dont really want to use a big model, as I want
-to run this on phones. 
+My end goal is running these models on phones, preferably older ones ( Snapdragon 660), so not really looking for a big model.
 
-At quick glance, kokoro 82m looks neat, need to try that. 
+At a quick glance, kokoro 82m looks neat, need to try that. 
 
-According to the huggingface page, it looks like this uses something called G2P model, not sure what is that, 
-maybe read about it later.
-
-I will test this tomorrow on my pc, how to configure and all. If works properly, next step would to optimize
-the inference for android.
+According to the HuggingFace page, it looks like it uses something called G2P model. I had a quick look at it. I don't really understand the need 
+for grapheme. It's a representation dividing words into subparts. These subparts are later converted to Phonemes. Phonemes are standard and guide how to speak. 

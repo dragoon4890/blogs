@@ -1,5 +1,11 @@
 [
   {
+    "slug": "tranformers-inference",
+    "title": "Quick Glance at Transformers inference",
+    "date": "2025-07-25",
+    "description": "Brief summary of my latest learnings about transformers :>"
+  },
+  {
     "slug": "android-audio",
     "title": "Setting up a small tts model for Android",
     "date": "2026-01-29",
