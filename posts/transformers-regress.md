@@ -1,6 +1,6 @@
 ---
 title: "Can I revert to local attention in  cross attention transformers?"
-date: "2024-12-21"
+date: "2025-07-25"
 description: " Case study on one of later curiosities"
 ---
 
