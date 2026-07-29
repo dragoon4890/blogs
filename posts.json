@@ -1,7 +1,7 @@
 [
   {
-    "slug": "tranformers-inference",
-    "title": "Quick Glance at Transformers inference",
+    "slug": "tranformers-regress",
+    "title": "Can I regress back to local attention instead of global attention in transformers?",
     "date": "2025-07-25",
     "description": "Brief summary of my latest learnings about transformers :>"
   },
